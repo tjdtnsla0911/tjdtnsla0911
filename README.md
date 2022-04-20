@@ -10,7 +10,7 @@
 
   <div  align=center>
   <h3>기술은 돈이다. technology is Money. </h3>
-  <h4>Object.is(technology,money) === true ? ('yes! very Good!😄') : ('🤔what?')</h4>
+<img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fitem.gmarket.co.kr%2FItem%3Fgoodscode%3D1466202538&psig=AOvVaw1LB5ZLTI-aBTUFjaMTL8zB&ust=1650541420991000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMjs7orIovcCFQAAAAAdAAAAABAD"/>
     <hr/>
 <div>
   <h3>⚡My skills<h3>
