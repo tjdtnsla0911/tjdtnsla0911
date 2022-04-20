@@ -1,15 +1,10 @@
 ### <h3>Dear all, Nice to meet You!!👋</h3>   
-
+<html>
 <head>
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 </head>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+<body>
 
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
 <img src ="https://img.shields.io/badge/JavaScript-3655FF?style=flat-square&logo=javascript&logoColor=white""/>
@@ -19,7 +14,8 @@
 <img src ="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white""/>
 <img src ="https://img.shields.io/badge/Jenkins-D24939?logo=JenKins&logoColor=white""/>
 <img src ="https://img.shields.io/badge/Gradle-02303A?logo=Gradle&logoColor=white""/>
-                                                                  
+                                                                                   </body>
+                                                                                   </html>                                                            
 <!--
 **tjdtnsla0911/tjdtnsla0911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
