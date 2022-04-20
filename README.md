@@ -5,6 +5,7 @@
 </head>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
 <img src ="https://img.shields.io/badge/JavaScript-3655FF?style=flat-square&logo=javascript&logoColor=white""/>
+<img src ="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white""/>
 
 <!--
 **tjdtnsla0911/tjdtnsla0911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
