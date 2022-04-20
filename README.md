@@ -10,7 +10,7 @@
 
   <div  align=center>
   <h3>기술은 돈이다. technology is Money. </h3>
-<img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fitem.gmarket.co.kr%2FItem%3Fgoodscode%3D1466202538&psig=AOvVaw1LB5ZLTI-aBTUFjaMTL8zB&ust=1650541420991000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMjs7orIovcCFQAAAAAdAAAAABAD"/>
+<img src="https://w.namu.la/s/ef334bf3de7b14cab021c14f4e1eae7beafd42e4cf61d2a49b20336603a645ae2312577bccfbece5c4ce28add7e4172dd00b6eabe8f7e674de8aee89afce04c87a22b5530fb389cd9103e62063aba675878abff0d6686d45191d3a2f7d6fc504"/>
     <hr/>
 <div>
   <h3>⚡My skills<h3>
