@@ -6,8 +6,8 @@
 
 <body>
   <div  align=center>
-  <h3>기술은 돈이다! technology is Money!!!! </h3>
-  <h4>Object.is(technology,money) === true ? ('yes! very Good!') : ('what?')</h4>
+  <h3>기술은 돈이다. technology is Money. </h3>
+  <h4>Object.is(technology,money) === true ? ('yes! very Good!😄') : ('🤔what?')</h4>
 <div>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
 <img src ="https://img.shields.io/badge/JavaScript-3655FF?style=flat-square&logo=javascript&logoColor=white""/>
