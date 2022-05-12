@@ -11,6 +11,8 @@
   <div  align=center>
     <h3>Nice to meet you. My name is <b>Kim Sungsoo.<b/><br/> I look forward to your kind cooperation. <br/>Thank you.</h3>
       <br/>
+      
+      <img src="https://androids-image.s3.ap-northeast-2.amazonaws.com/0/dog.jpg"/><br/>
 <img src="https://w.namu.la/s/ef334bf3de7b14cab021c14f4e1eae7beafd42e4cf61d2a49b20336603a645ae2312577bccfbece5c4ce28add7e4172dd00b6eabe8f7e674de8aee89afce04c87a22b5530fb389cd9103e62063aba675878abff0d6686d45191d3a2f7d6fc504"/>
     <hr/>
 <div>
